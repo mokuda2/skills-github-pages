@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: College Junior Year Reflection
 ---
 
